@@ -124,17 +124,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown(
-    """
-    <div class="disclaimer">
-    <b>Disclaimer:</b> This tool is intended for research and risk stratification purposes only.
-    It should not be used as a stand-alone diagnostic instrument or as a substitute for clinical judgment,
-    laboratory testing, or comprehensive metabolic assessment.
-    </div>
-    """,
-    unsafe_allow_html=True
-)
-
 
 # =========================================================
 # 3. Input form
