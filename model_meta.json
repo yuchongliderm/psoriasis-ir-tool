@@ -1,0 +1,13 @@
+{
+  "best_model_name": "SVM",
+  "optimal_threshold": 0.451881,
+  "candidate_features": [
+    "age",
+    "sex",
+    "bmi",
+    "pasi",
+    "hdl",
+    "ldl"
+  ],
+  "target": "ty_g1"
+}
