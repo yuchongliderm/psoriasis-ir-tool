@@ -269,7 +269,6 @@ if submitted:
 
         base_value = float(np.asarray(base_value))
 
-    shap.initjs()
 
     force = shap.force_plot(
         base_value=base_value,
