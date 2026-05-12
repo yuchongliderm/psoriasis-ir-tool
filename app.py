@@ -15,7 +15,7 @@ import streamlit.components.v1 as components
 # 1. App paths and cached loading
 # =========================================================
 BASE_DIR = Path(__file__).resolve().parent
-WEB_DIR = BASE_DIR / "model_outputs_revised_v3" / "web_artifacts"
+WEB_DIR = BASE_DIR
 
 
 @st.cache_resource
